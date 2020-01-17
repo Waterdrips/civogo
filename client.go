@@ -2,7 +2,7 @@ package civogo
 
 import (
 	"bytes"
-	"encoding/json"
+"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"log"
